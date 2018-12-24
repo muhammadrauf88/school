@@ -35,6 +35,9 @@
       <th>Created Time</th>
     	<th>Edit</th>
     	<th>Delete</th>
+      <th>Midterm</th>
+      <th>Final</th>
+      <th>Average</th>
     </tr>
     @foreach($students as $row)
       <tr>
