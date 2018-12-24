@@ -60,7 +60,18 @@
             <input type="hidden" name="_method" value="DELETE"/>
             <button type="submit" class="button is-danger">Delete</button>  
           </form> --}}
-      </td>
+        </td>
+        <td>
+          75/100
+        </td>
+        <td>
+          85/100
+        </td>
+        <td>
+          <span class="tag">
+            80%
+          </span>
+        </td>
 
       </tr>
     @endforeach	
